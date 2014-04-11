@@ -1,0 +1,4 @@
+[submodule "pelican-octopress-theme"]
+	path = pelican-octopress-theme
+	url = https://github.com/pablodecm/pelican-octopress-theme
+	branch = custom
