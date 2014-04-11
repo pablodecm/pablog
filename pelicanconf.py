@@ -4,6 +4,7 @@ from __future__ import unicode_literals
 
 AUTHOR = u'Pablo de Castro'
 SITENAME = u'Particular Attention'
+SITESUBTITLE = u'Blogging. Learning. Optimizing. Graduating.'
 SITEURL = ''
 
 TIMEZONE = 'Europe/Paris'
@@ -26,6 +27,8 @@ SOCIAL = (('You can add links in your config file', '#'),
           ('Another social link', '#'),)
 
 DEFAULT_PAGINATION = 10
+
+THEME = "/home/pablodecm/Dropbox/Workspace/pelican-octopress-theme"
 
 # Uncomment following line if you want document-relative URLs when developing
 #RELATIVE_URLS = True
